@@ -1,0 +1,7 @@
+{
+  "name": "pool-sim",
+  "workspaces": [
+    "simulation",
+    "web-ui"
+  ]
+}
